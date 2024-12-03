@@ -1,1 +1,4 @@
-# SpamDetector01
+# SpamDetector
+
+##Data
+SpamAssasin Public Corpus
