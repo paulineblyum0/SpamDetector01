@@ -1,4 +1,4 @@
 # SpamDetector
 
-##Data
+## Data
 SpamAssasin Public Corpus
